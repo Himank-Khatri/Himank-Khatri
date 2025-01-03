@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Natural Language Processing & LLMs<br><br>💬 Ask me about Python or Machine Learning<br><br>📫 How to reach me k.himank.14@gmail.com<br><br>⚡ Fun fact I love mountains
+🌱 I’m currently learning Natural Language Processing & LLMs<br>💬 Ask me about Python or Machine Learning<br>📫 How to reach me k.himank.14@gmail.com<br>⚡ Fun fact I love mountains
 
 
 ## 🌐 Socials:
